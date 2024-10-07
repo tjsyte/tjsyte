@@ -43,35 +43,3 @@ I love working on challenging problems and building software that solves real-wo
 <p align="center">
   <img src="https://github.com/JohnSyte/JohnSyte/blob/main/coding.gif" alt="Coding" width="500"/>
 </p>
-
-<style>
-  h2 {
-    animation: bounce 2s infinite;
-  }
-
-  a {
-    animation: pulse 2s infinite;
-    display: inline-block;
-  }
-
-  @keyframes bounce {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-20px);
-    }
-  }
-
-  @keyframes pulse {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.1);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
-</style>
