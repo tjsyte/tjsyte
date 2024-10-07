@@ -19,7 +19,6 @@ I'm a dedicated student focused on becoming a proficient full-stack developer. I
 ## About Me 🌱
 I love working on challenging problems and building software that solves real-world issues. Outside of coding, I enjoy exploring new technologies and contributing to open-source projects.
 
-### Here's a little animation of me coding:
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500"/>
 </p>
@@ -35,9 +34,3 @@ I love working on challenging problems and building software that solves real-wo
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
   </a>
 </p>
-
----
-
-<h2 align="center"> I'm a Full-Stack Developer 🚀 </h2>
-
-![Bouncing Text](https://github.com/JohnSyte/JohnSyte/blob/main/bouncing-text.gif)
