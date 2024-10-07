@@ -8,6 +8,7 @@ I'm a dedicated student focused on becoming a proficient full-stack developer. I
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
@@ -25,16 +26,15 @@ I love working on challenging problems and building software that solves real-wo
 
 ---
 
-## GitHub Stats 📊
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnSyte&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSyte&layout=compact&theme=radical)
-
----
-
 ## Get in Touch 📫
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/johnsyte)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JohnSyte)
+<p align="center">
+  <a href="https://www.linkedin.com/in/john-syte-tiopes-1919802b1/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/tjsyte" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  </a>
+</p>
 
 ---
 
@@ -49,12 +49,29 @@ I love working on challenging problems and building software that solves real-wo
     animation: bounce 2s infinite;
   }
 
+  a {
+    animation: pulse 2s infinite;
+    display: inline-block;
+  }
+
   @keyframes bounce {
     0%, 100% {
       transform: translateY(0);
     }
     50% {
       transform: translateY(-20px);
+    }
+  }
+
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
     }
   }
 </style>
