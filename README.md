@@ -40,6 +40,4 @@ I love working on challenging problems and building software that solves real-wo
 
 <h2 align="center"> I'm a Full-Stack Developer 🚀 </h2>
 
-<p align="center">
-  <img src="https://github.com/JohnSyte/JohnSyte/blob/main/coding.gif" alt="Coding" width="500"/>
-</p>
+![Bouncing Text](https://github.com/JohnSyte/JohnSyte/blob/main/bouncing-text.gif)
