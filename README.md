@@ -1,6 +1,6 @@
 # Hello, I'm John Syte 👋
 
-I'm a dedicated student focused on becoming a proficient full-stack developer. I aim to create innovative systems to support programming education. I manage time well, work reliably, and tackle challenges with enthusiasm, whether independently or in a team.
+I'm a dedicated BSIT focused on becoming a proficient front-end developer. I aim to create innovative systems to support programming education. I manage time well, work reliably, and tackle challenges with enthusiasm, whether independently or in a team.
 
 ---
 
