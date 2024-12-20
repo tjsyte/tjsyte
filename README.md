@@ -1,6 +1,6 @@
 # Hello, I'm John Syte 👋
 
-I'm a dedicated BSIT focused on becoming a proficient front-end developer. I aim to create innovative systems to support programming education. I manage time well, work reliably, and tackle challenges with enthusiasm, whether independently or in a team.
+Hi, I'm John Syte — a developer passionate about software, discovering new technologies, building projects, playing chess, and continuously learning about the tech industry.
 
 ---
 
