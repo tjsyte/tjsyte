@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **John Syte** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hi, I'm **John Syte** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 I'm a passionate **full-stack developer** who loves building modern web apps, exploring new technologies, and solving real-world problems through clean, scalable code.
 
