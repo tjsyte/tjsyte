@@ -53,14 +53,6 @@ When I'm not coding, you'll find me playing chess, contributing to open-source p
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tjsyte/tjsyte/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ## 📫 Get in Touch
 
 Feel free to reach out if you’d like to connect or collaborate on cool projects!
