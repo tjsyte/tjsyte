@@ -23,16 +23,6 @@ When I'm not coding, I enjoy playing chess, contributing to open-source projects
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
 </p>
 
----
-
-## 🌱 What I’m Currently Learning
-
-- TypeScript
-- Next.js
-- Advanced Git workflows
-
----
-
 ## 📫 Get in Touch
 
 Feel free to reach out if you’d like to connect or collaborate!
