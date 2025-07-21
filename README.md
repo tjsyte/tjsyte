@@ -1,8 +1,6 @@
 # Hi, I'm **John Syte** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm a passionate **full-stack developer** who loves building modern web apps, exploring new technologies, and solving real-world problems through clean, scalable code.
-
-When I'm not coding, you'll find me playing chess, contributing to open-source projects, or diving deep into the latest tech trends.
+I enjoy making web apps and learning new technologies. In my free time, I play chess, explore open-source projects, and stay curious about the latest in tech.
 
 ---
 
