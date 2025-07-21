@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **John Syte**
+# 👋 Hi, I'm **John Syte** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 I'm a passionate **full-stack developer** who loves building modern web apps, exploring new technologies, and solving real-world problems through clean, scalable code.
 
@@ -40,6 +40,23 @@ When I'm not coding, you'll find me playing chess, contributing to open-source p
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tjsyte&show_icons=true&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjsyte&layout=compact&theme=radical" height="180">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tjsyte/tjsyte/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
